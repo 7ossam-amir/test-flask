@@ -13,5 +13,5 @@ This project includes:
 
 ### Home Page
 
-![Home Page]("C:\Users\pc\Downloads\Screenshot_11-10-2024_235716_127.0.0.1.jpeg")
+![Home Page]("C:\Users\pc\My-github\test-flask\SWE lap pract\s1.jpeg")
 
