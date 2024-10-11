@@ -11,8 +11,5 @@ This project includes:
 
 
 
-### Home Page
 
-![Home Page](![s1](https://github.com/user-attachments/assets/a87691b2-3c0f-45a8-95c7-c8e9295146b7)
-)
 
